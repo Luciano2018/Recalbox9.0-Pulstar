@@ -10,10 +10,12 @@ Bios Recalbox-Electron 8.1 without unnecessary files.
 </p>
 
 # Instalacion fácil:
-# Easy install:
 
 Salimos con `F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT+F2` e iniciamos sesion:
+
+# Easy install:
 Exit from EmulationStation with `F4` then press `ALT+F2` to go top Recalbox Terminal:
+
 # Login:
 
 User:`root`
