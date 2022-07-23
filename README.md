@@ -19,7 +19,7 @@ Password: `recalboxroot`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/Recalbox-Bios/master/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/Recalbox8.1-Electron/master/install.sh | bash
 ```
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
