@@ -3,13 +3,17 @@
 Las Bios Correctas y necesarias para Recalbox-Electron 8.1, sin archivos innecesarios.
 </p>
 <p align="center">
+Bios Recalbox-Electron 8.1 without unnecesary files.
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 
-# Instalacion facil:
+# Instalacion fácil:
+# Easy install:
 
 Salimos con `F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT+F2` e iniciamos sesion:
-
+Exit from EmulationStation with `F4` then press `ALT+F2` to go top Recalbox Terminal:
 # Login:
 
 User:`root`
@@ -21,6 +25,7 @@ Type:
 ```
 curl -sSL https://raw.githubusercontent.com/Luciano2018/Recalbox8.1-Electron/master/install.sh | bash
 ```
+
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
 
