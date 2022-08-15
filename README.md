@@ -1,6 +1,6 @@
-#                                  <h1 align="center"> Recalbox-8.1-Electron-Bios 2022</h1>
+#                                  <h1 align="center"> Recalbox-8.1 & 8.1.1-Electron-Bios 2022</h1>
 <p align="center">
-Las Bios Correctas y necesarias para Recalbox-Electron 8.1, sin archivos innecesarios.
+Las Bios Correctas y necesarias para Recalbox-Electron 8.1 & 8.1.1, sin archivos innecesarios.
 </p>
 <p align="center">
 Bios Recalbox-Electron 8.1 without unnecessary files.
