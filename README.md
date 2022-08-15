@@ -3,7 +3,7 @@
 Las Bios Correctas y necesarias para Recalbox-Electron 8.1 & 8.1.1, sin archivos innecesarios.
 </p>
 <p align="center">
-Bios Recalbox-Electron 8.1 without unnecessary files.
+Bios Recalbox-Electron 8.1 & 8.1.1 without unnecessary files.
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
