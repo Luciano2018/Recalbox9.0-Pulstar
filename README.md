@@ -27,7 +27,7 @@ Password: `recalboxroot`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/Recalbox99.0-Pulstar/master/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/install.sh | bash
 ```
 
 # Tutorial: Retroconsolas
