@@ -281,9 +281,9 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/
 echo
 echo "APPLE MACINTOSH"
 echo
-wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/macintosh/MacII.ROM" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/macintosh/MacII.ROM" -P ../bios/macintosh/
 echo
-wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/macintosh/MinivMacBootv2.dsk" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/macintosh/MinivMacBootv2.dsk" -P ../bios/macintosh/
 echo
 echo "ATARI 5200"
 echo
