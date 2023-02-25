@@ -19,7 +19,6 @@ rm ../bios/3do_arcade_saot.bin
 rm ../bios/5200.rom
 rm ../bios/64DD_IPL.bin
 rm ../bios/"7800 BIOS (U).rom"
-rm ../bios/apple2gs.rom
 rm ../bios/apple2gs1.rom
 rm ../bios/apple2gs3.rom
 rm ../bios/ATARIBAS.ROM
@@ -271,9 +270,6 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/
 echo
 echo "APPLE IIGS"
 echo
-wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/apple2gs.rom" -P ../bios/
-echo
-echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/apple2gs1.rom" -P ../bios/
 echo
 echo
@@ -433,9 +429,11 @@ echo "GAME BOY ADVANCE"
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/gba_bios.bin" -P ../bios/
 echo
-echo "MSX FAMILLY by default came in the OS"
+echo "open_gba_bios.bin by default came in the OS"
+echo
+echo "MSX FAMILLY bios by default came in the OS"
 echo 
-echo "MSX AND MSX2 SERIES by default came in the OS"
+echo "MSX AND MSX2 SERIES bios by default came in the OS"
 echo
 echo "MAGNAVOX ODYSSEY"
 echo
@@ -460,7 +458,7 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/syscard2.pce" -P ../bios/
 echo
-echo "gexpress.pce already downloaded"
+echo "gexpress.pce already downloaded is the same of NEC PC-ENGINE"
 echo
 echo "NEC PC-FX"
 echo
@@ -468,7 +466,7 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/
 echo
 echo "NEC SUPERGRAFX"
 echo
-echo "gexpress.pce already downloaded"
+echo "gexpress.pce already downloaded is the same of NEC PC-ENGINE"
 echo
 echo "NAOMI"
 echo
@@ -519,6 +517,8 @@ echo
 echo "NINTENDO SUPER GAMEBOY"
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/sgb_bios.bin" -P ../bios/
+echo
+echo "sgb_boot.bin by default came in the OS"
 echo
 echo "sgb2_boot.bin by default came in the OS"
 echo
